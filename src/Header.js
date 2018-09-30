@@ -14,7 +14,7 @@ export default class Header extends Component {
           <SocialIcon url="http://github.com/jwlin17" className="btn btn-circle" />
           <img src="/web-github-iso/kaggle.svg" alt="Kaggler's Website" className="btn btn-kaggle btn-circle" />
           <SocialIcon url="http://facebook.com/jonathan.xu.54" className="btn btn-circle" />
-          <SocialIcon url="mailto:example@email.com" className="btn btn-circle" />
+          <SocialIcon url="mailto:jwlin17@gmail.com" className="btn btn-circle" />
         </div>
       </div>
     );
