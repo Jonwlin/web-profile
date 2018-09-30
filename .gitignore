@@ -16,6 +16,25 @@
 .env.test.local
 .env.production.local
 
+#debug logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Dependency directory
+node_modules
+bower_components
+package-lock.json
+
+# Editors
+.idea
+*.iml
+
+# Builds
+build
+browser.js
+
+# OS metadata
+.DS_Store
+Thumbs.db
