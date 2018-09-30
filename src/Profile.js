@@ -7,7 +7,7 @@ export default class Profile extends Component {
       <Grid>
         <Row>
           <Col xs={6} md={4} mdOffset={4}>
-            <Image src="/profile_pic_pro.JPG" rounded responsive/>
+            <Image src="/web-github-iso/profile_pic_pro.JPG" rounded responsive/>
           </Col>
         </Row>
       </Grid>
