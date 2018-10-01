@@ -8,7 +8,7 @@ export default class Profile extends Component {
       <Grid>
         <Row>
           <Col xs={6} md={3} xsOffset={3} mdOffset={2}>
-            <Image src="/profile_pic_pro.JPG" rounded responsive/>
+            <Image src="/web-github-iso/profile_pic_pro.JPG" rounded responsive/>
           </Col>
           <Col xs={10} md={5} xsOffset={1} mdOffset={0}>
             <h4 className="profile-content">Hey! I'm a 3rd year Data Science major with Computer Science focus and an Economics Minor at UC San Diego. I am excited to be the first class of undergraduate data scientists at my school.
