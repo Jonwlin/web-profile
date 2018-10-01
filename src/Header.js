@@ -8,7 +8,7 @@ export default class Header extends Component {
       <div id="homepage">
         <div id="profile">
           <h1>
-            Jonathan Lin
+            Jonathan W. Lin
           </h1>
           <SocialIcon url="http://linkedin.com/in/xjonathan" className="btn btn-circle" />
           <SocialIcon url="http://github.com/jwlin17" className="btn btn-circle" />
